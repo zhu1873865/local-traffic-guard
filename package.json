@@ -1,0 +1,14 @@
+{
+  "name": "clash-traffic-guard",
+  "productName": "Clash Traffic Guard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Windows 本地 Clash 流量悬浮球与阈值保护",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "start": "node scripts/start.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "probe": "node scripts/probe.cjs",
+    "package": "node scripts/package.cjs"
+  }
+}
