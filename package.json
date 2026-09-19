@@ -1,7 +1,7 @@
 {
-  "name": "clash-traffic-guard",
-  "productName": "Clash Traffic Guard",
-  "version": "1.0.0",
+  "name": "local-traffic-guard",
+  "productName": "Local Traffic Guard",
+  "version": "1.0.1",
   "private": true,
   "description": "Windows 本地 Clash 流量悬浮球与阈值保护",
   "main": "electron/main.cjs",
